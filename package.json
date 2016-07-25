@@ -1,0 +1,24 @@
+{
+  "name": "nz-at-cli",
+  "version": "0.0.0",
+  "description": "Command line interface to Auckland Transport",
+  "main": "cli.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felixschl/nz-at-cli.git"
+  },
+  "keywords": [
+    "Auckland",
+    "transport",
+    "CLI"
+  ],
+  "author": "Felix Schlitter <felixschlitter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixschl/nz-at-cli/issues"
+  },
+  "homepage": "https://github.com/felixschl/nz-at-cli#readme"
+}
